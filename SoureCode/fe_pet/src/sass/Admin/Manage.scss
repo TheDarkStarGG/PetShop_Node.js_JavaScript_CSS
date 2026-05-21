@@ -1,0 +1,33 @@
+.Manage {
+    padding: 30px;
+  
+    h2 {
+      margin-bottom: 20px;
+      color: #333;
+    }
+  
+    .manage-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 10px;
+  
+      th, td {
+        border: 1px solid #ccc;
+        padding: 12px;
+        text-align: left;
+      }
+  
+      th {
+        background-color: #f8f8f8;
+      }
+  
+      button {
+        border: none;
+        background: transparent;
+        cursor: pointer;
+        font-size: 18px;
+        color: #007bff;
+      }
+    }
+  }
+  
